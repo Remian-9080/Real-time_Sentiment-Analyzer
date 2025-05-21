@@ -44,17 +44,17 @@ sentiment-visualizer/
 ├── requirements.txt      # Dependencies
 └── README.md             
 
-### 🛠️ Installation & Usage
+## 🛠️ Installation & Usage
 python -m venv venv
-# Windows
+- Windows
 venv\Scripts\activate
-# macOS/Linux
+- macOS/Linux
 source venv/bin/activate
-# Follow
+- Follow
 1. pip install -r requirements.txt
 2. python src/sentiment_analysis/app.py
 
-👤 Author
+## 👤 Author
 Mohammed Rakibul Hasan
 
 ## 📃 License
