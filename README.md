@@ -22,7 +22,7 @@ A real-time desktop sentiment analyzer built with Python, HuggingFace Transforme
 ---
 
 ## Model Used
-cardiffnlp/twitter-roberta-base-sentiment
+- cardiffnlp/twitter-roberta-base-sentiment
 A RoBERTa-based model fine-tuned on Twitter data.
 It classifies input into:
 
@@ -48,9 +48,8 @@ sentiment-visualizer/
 python -m venv venv
 - Windows: venv\Scripts\activate
 - macOS/Linux: source venv/bin/activate
-- Follow -
--- pip install -r requirements.txt
-- python src/sentiment_analysis/app.py
+- Follow: pip install -r requirements.txt
+- Run: python src/sentiment_analysis/app.py
 
 ## 👤 Author
 Mohammed Rakibul Hasan
