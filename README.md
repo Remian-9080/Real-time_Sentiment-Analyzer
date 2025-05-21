@@ -42,7 +42,7 @@ sentiment-visualizer/
 │
 ├── sentiment.gif         # Demo animation (used in README)
 ├── requirements.txt      # Dependencies
-└── README.md             # This file
+└── README.md             
 
 ### 🛠️ Installation & Usage
 python -m venv venv
