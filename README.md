@@ -48,9 +48,9 @@ sentiment-visualizer/
 python -m venv venv
 - Windows: venv\Scripts\activate
 - macOS/Linux: source venv/bin/activate
-- Follow
+- Follow -
 -- pip install -r requirements.txt
--- python src/sentiment_analysis/app.py
+- python src/sentiment_analysis/app.py
 
 ## 👤 Author
 Mohammed Rakibul Hasan
