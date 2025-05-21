@@ -21,15 +21,19 @@ A real-time desktop sentiment analyzer built with Python, HuggingFace Transforme
 
 ---
 
-## Model Used
-- cardiffnlp/twitter-roberta-base-sentiment
-A RoBERTa-based model fine-tuned on Twitter data.
-It classifies input into:
-- negative
-- neutral
-- positive
+## 📦 Model Used
 
-## Project Structure
+**Model**: [`cardiffnlp/twitter-roberta-base-sentiment`](https://huggingface.co/cardiffnlp/twitter-roberta-base-sentiment)  
+A RoBERTa-based model fine-tuned on Twitter data. It classifies input into:
+- `negative`
+- `neutral`
+- `positive`
+
+---
+
+## 📁 Project Structure
+
+```bash
 sentiment-visualizer/
 │
 ├── src/
@@ -40,7 +44,7 @@ sentiment-visualizer/
 ├── sentiment.gif         # Demo animation (used in README)
 ├── requirements.txt      # Dependencies
 └── README.md             
-
+```
 
 ---
 
@@ -53,7 +57,7 @@ python -m venv venv
 - Windows: venv\Scripts\activate  or on macOS/Linux: source venv/bin/activate
 - Follow: pip install -r requirements.txt
 - Run: python src/sentiment_analysis/app.py
-
+```
 ## 👤 Author
 Mohammed Rakibul Hasan
 
