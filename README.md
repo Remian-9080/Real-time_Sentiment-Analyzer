@@ -62,4 +62,4 @@ python -m venv venv
 Mohammed Rakibul Hasan
 
 ## 📃 License
-© Mohammed Rakibul Hasan
+MIT © Mohammed Rakibul Hasan
