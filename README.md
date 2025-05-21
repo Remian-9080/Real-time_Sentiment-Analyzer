@@ -41,7 +41,14 @@ sentiment-visualizer/
 ├── requirements.txt      # Dependencies
 └── README.md             
 
+
+---
+
 ## 🛠️ Installation & Usage
+
+### Step 1: Set up a virtual environment
+
+```bash
 python -m venv venv
 - Windows: venv\Scripts\activate  or on macOS/Linux: source venv/bin/activate
 - Follow: pip install -r requirements.txt
