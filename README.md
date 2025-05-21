@@ -1,7 +1,7 @@
 # 
 # 🎭 Sentiment Visualizer
 
-A real-time desktop sentiment analyzer built with Python, HuggingFace Transformers, and a sleek Tkinter interface. As you type, the app instantly analyzes your text sentiment and visualizes it with a glowing yellow emoji and a sentiment bar — all on a clean black background.
+A real-time desktop sentiment analyzer built with Python, HuggingFace Transformers, and a sleek Tkinter interface. As you type, the app instantly analyzes your text sentiment and visualizes it with a glowing yellow emoji and a sentiment bar.
 
 ---
 
