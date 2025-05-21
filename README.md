@@ -54,6 +54,8 @@ source venv/bin/activate
 1. pip install -r requirements.txt
 2. python src/sentiment_analysis/app.py
 
+👤 Author
+Mohammed Rakibul Hasan
 
 ## 📃 License
 MIT License © Mohammed Rakibul Hasan
