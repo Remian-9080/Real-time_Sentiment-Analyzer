@@ -32,8 +32,19 @@ It classifies input into:
 
 - positive
 
+## Project Structure
+sentiment-visualizer/
+│
+├── src/
+│   └── sentiment_analysis/
+│       ├── app.py        # GUI application (Tkinter)
+│       └── analyzer.py   # HuggingFace-based sentiment logic
+│
+├── sentiment.gif         # Demo animation (used in README)
+├── requirements.txt      # Dependencies
+└── README.md             # This file
 
-## 🛠️ Installation & Usage
+### 🛠️ Installation & Usage
 python -m venv venv
 # Windows
 venv\Scripts\activate
