@@ -25,11 +25,8 @@ A real-time desktop sentiment analyzer built with Python, HuggingFace Transforme
 - cardiffnlp/twitter-roberta-base-sentiment
 A RoBERTa-based model fine-tuned on Twitter data.
 It classifies input into:
-
 - negative
-
 - neutral
-
 - positive
 
 ## Project Structure
@@ -46,8 +43,7 @@ sentiment-visualizer/
 
 ## 🛠️ Installation & Usage
 python -m venv venv
-- Windows: venv\Scripts\activate
-- macOS/Linux: source venv/bin/activate
+- Windows: venv\Scripts\activate  or on macOS/Linux: source venv/bin/activate
 - Follow: pip install -r requirements.txt
 - Run: python src/sentiment_analysis/app.py
 
