@@ -7,7 +7,7 @@ A real-time desktop sentiment analyzer built with Python, HuggingFace Transforme
 ## 🖼️ Demo
 
 <p align="center">
-  <img src="sentiment.gif" alt="Sentiment Visualizer Demo" width="50%">
+  <img src="sentiment-analyzer/sentiment.gif" alt="Sentiment Visualizer Demo" width="50%">
 </p>
 
 ---
