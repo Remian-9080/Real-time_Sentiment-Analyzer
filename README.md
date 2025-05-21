@@ -26,11 +26,11 @@ cardiffnlp/twitter-roberta-base-sentiment
 A RoBERTa-based model fine-tuned on Twitter data.
 It classifies input into:
 
--negative
+- negative
 
--neutral
+- neutral
 
--positive
+- positive
 
 
 ## 🛠️ Installation & Usage
